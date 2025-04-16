@@ -39,8 +39,9 @@ O site apresenta:
 
 ## 🔗Link
 
-cofee-shop-tia-rosa.netlify.app
+https://cofee-shop-tia-rosa.netlify.app
 
+----
 ```
 ## 👤 Autor
 
