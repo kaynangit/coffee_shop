@@ -43,7 +43,7 @@ https://cofee-shop-tia-rosa.netlify.app
 
 ----
 ```
-## 👤 Autor
+👤 Autor
 
 Kaynan Mendes ROdrigues Gomes
 
