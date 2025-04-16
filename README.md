@@ -45,6 +45,6 @@ https://cofee-shop-tia-rosa.netlify.app
 ```
 👤 Autor
 
-Kaynan Mendes ROdrigues Gomes
+Kaynan Mendes Rodrigues Gomes
 
 
