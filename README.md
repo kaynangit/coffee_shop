@@ -34,8 +34,16 @@ O site apresenta:
 ├── cssAA.css               # Estilos personalizados
 ├── JsAA.js                 # Script JavaScript simples
 └── imgs/                   # Imagens usadas no site 
-```
 
+---
+
+## 🔗Link
+
+cofee-shop-tia-rosa.netlify.app
+
+```
 ## 👤 Autor
 
-Kaynan Mendes ROdrigues Gomes 
+Kaynan Mendes ROdrigues Gomes
+
+
