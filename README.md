@@ -1,6 +1,6 @@
 # coffee_shop_tia_rosa 
 
-Este é um projeto de front-end desenvolvido para representar a fictícia cafeteria "Tia Rosa", destacando sua identidade visual, promoções e serviços oferecidos. O foi desenvolvido com foco em estética, clareza de informações e experiência do usuário.
+Este é um projeto de front-end desenvolvido para representar a fictícia cafeteria "Tia Rosa", destacando sua identidade visual, promoções e serviços oferecidos. O site foi desenvolvido com foco em estética, clareza de informações e experiência do usuário.
 
 ---
 
