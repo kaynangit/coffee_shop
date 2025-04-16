@@ -1,0 +1,196 @@
+/* estilização geral da página */
+body{
+  background-image: url('imgs/OFCbackgroud_x4.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin: 2rem 3rem 0px;
+}
+/* estilização da barra de navegação */
+#navegacao{
+  display: flex;
+  justify-content: flex-start;
+  gap: 8rem;
+  align-items: center;
+  background-color: rgba(152, 104, 82, 0.44);
+  width: 100%;
+  border-radius: 20px;
+}
+
+#logo{
+  width: auto;
+  height: 4em;
+  margin: 0.5em 3em;
+}
+
+.option{
+  display: flex;
+  justify-content: left;
+}
+
+.group1{
+  color: white;
+  font-family: 'Golos text';
+  font-size: 1.2em;
+  width: auto;
+}
+
+#seta_baixo{
+  width: 1.8em;
+}
+/* fim da estilização da barra de navegação */
+/* estilização da sessão de cards de anuncio */
+.anuncio{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items:start;
+  width: 38rem;
+  height: 7.5rem;
+  background-color: rgba(152, 104, 82, 0.44);
+  border-radius: 20px;
+  margin: 4.5em 0 0  4em;  
+}
+
+#xicara{
+  width: 13em;
+  transform: scaleX(-1) translateY(-3.8em) translateX(1.5em);
+  filter: drop-shadow(12px 10px 10px rgba(62, 35, 20, 1));
+}
+
+.promocao{
+  font-family: 'Gravitas One';
+  font-size: 1.6em;
+  font-weight: bolder;
+  text-align: center;
+  margin: 0;
+  transform: translateY(-1.3em) translateX(-1em) rotateZ(6deg); 
+  text-shadow: -4px 4px 5px black;
+  color: rgba(62, 35, 20, 1);
+}
+
+.produto{
+  color: rgba(62, 35, 20, 1);
+  font-family: 'Gravitas One';
+  font-size: 1em;
+  text-decoration: underline;
+  transform: translateY(-1.8em);
+}
+
+#descricao{
+  color: rgba(62, 35, 20, 1);
+  font-family: 'Gravitas One';
+  font-size: 0.7em;
+  text-align: center;
+  transform: translateY(-2rem) translateX(-1.6rem);
+  text-shadow: -4px 4px 5px  rgb(98, 56, 33);
+}
+
+#porcento{
+  font-family: 'Gravitas One';
+  color: white;
+  font-size: 5em;
+  text-align: center;
+  margin: 0;
+  transform: translateX(-2rem);
+}
+
+#off{
+  font-family: 'Gravitas One';
+  color: white;
+  font-size: 1.5rem;
+  margin: 0;
+  text-align: left;
+  transform: translateX(1.6rem) translateY(-1rem);
+}
+
+#man{
+  width: 9.3rem;
+  transform: translateY(-4.23rem);
+  filter: drop-shadow(-1px 1px 4px rgba(62, 35, 20, 1));
+}
+
+#conect{
+  font-size: 1.7em;
+  transform: translateZ(0) translateY(-2rem);
+}
+
+#textDiv2{
+  text-decoration: none;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(62, 35, 20, 1);
+}
+
+#capp{
+  width: 14rem;
+  transform: translateY(-3.5rem) translateX(2.3rem) rotateZ(-15deg);
+  filter: drop-shadow(20px 15px 10px rgba(62, 35, 20, 1));
+}
+
+#cardMusic{
+  display: flex;
+}
+
+#woman{
+  width: 11rem;
+  transform: translateY(-3.34rem) scaleX(-1);
+  filter: drop-shadow(2px 1px 4px rgba(62, 35, 20, 1));
+}
+
+#TextMusic{
+  align-items: center;
+  font-size: 1.6rem;
+  transform: translateY(-1.5em) translateX(3rem) rotateZ(5deg);
+}
+
+#descMusic{
+  text-align: center;
+  color: rgba(62, 35, 20, 1);
+  font-family: 'Gravitas One';
+  font-size: 0.95rem;
+  transform: translateY(-1.8em) translateX(2.5em);
+  text-shadow: -2px 2px 4px  rgba(62, 35, 20, 1) ;
+}
+/* fima da estilização dos cards de anuncio */
+/* estilização do footer */
+footer{
+  position: fixed;
+  bottom: 0;
+  display: grid;
+  width: 100%;
+  align-items: center;
+}
+
+#TextFooter{
+  font-size: smaller;
+  text-align: center;
+}
+/* fim da estilização do footer */
+/* estilização da div de boas vindas*/
+#boasvindas{
+  position: fixed; 
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background-color: rgba(0,0,0,0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+#Continuar{
+  background-color: rgba(62, 35, 20, 1);
+  color: white;
+  width: 100px; 
+  height: 30px;
+  border-radius: 5px;
+  border: 0;
+}
+
+#acesso{
+  border-color: #222; 
+  padding: 30px; 
+  border-radius: 10px;
+}
+/* fim da estilização da div de boas vindas */
